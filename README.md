@@ -18,11 +18,11 @@ The HTML files and privacy nudges can be reused by citing the following paper:
 
 Schmitt, V., Conde, D., & Möller, S. (2023, November). What is Your Information Worth? A Systematic Analysis of the Endowment Effect of Different Data Types. In Nordic Conference on Secure IT Systems (pp. ). Cham: Springer International Publishing.
 
-@inproceedings{hesselmann2022data,
-  title={ What is Your Information Worth? A Systematic Analysis of the Endowment Effect of Different Data Types},
-  author={Schmitt, Vera and Conde, Daniel Sivizaca and Möller, Sebastian},
-  booktitle={Nordic Conference on Secure IT Systems},
-  pages={},
-  year={2023},
-  organization={Springer}
+@inproceedings{hesselmann2022data,<br>
+  title={ What is Your Information Worth? A Systematic Analysis of the Endowment Effect of Different Data Types},<br>
+  author={Schmitt, Vera and Conde, Daniel Sivizaca and Möller, Sebastian},<br>
+  booktitle={Nordic Conference on Secure IT Systems},<br>
+  pages={},<br>
+  year={2023},<br>
+  organization={Springer}<br>
 }
