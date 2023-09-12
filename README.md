@@ -12,3 +12,17 @@ The experiment was divided into four smaller experiments due to time constraints
 # Ethical Considerations
 The experiment was carefully designed so as not to infringe on the privacy of participants. A unique personal identifier was created at the beginning of the experiment, which only the participants themselves could recreate. 
 Thus, only anonymized information about the participants was considered throughout the whole experimental design, which does not allow for identifying individual participants. The experiment was approved by the ethics committee of Faculty IV from the Technische Universität Berlin with no further objections or obligations to consider. 
+
+The experiments have been conducted in Crowdee (https://www.crowdee.com/), a crowdsourcing platform based in Germany. 
+The HTML files and privacy nudges can be reused by citing the following paper: 
+
+Schmitt, V., Conde, D., & Möller, S. (2023, November). What is Your Information Worth? A Systematic Analysis of the Endowment Effect of Different Data Types. In Nordic Conference on Secure IT Systems (pp. ). Cham: Springer International Publishing.
+
+@inproceedings{hesselmann2022data,
+  title={ What is Your Information Worth? A Systematic Analysis of the Endowment Effect of Different Data Types},
+  author={Schmitt, Vera and Conde, Daniel Sivizaca and Möller, Sebastian},
+  booktitle={Nordic Conference on Secure IT Systems},
+  pages={},
+  year={2023},
+  organization={Springer}
+}
