@@ -1,10 +1,9 @@
 # MonVal_Experiment
 
 The experiment was divided into four smaller experiments due to time constraints. Running the study by asking for all the different influencing factors would have increased the length of the study drastically. 
-### Experiment 1 (N=100): 
-examines WTP and WTA more extensively in relation to privacy concern  
-### Experiment 2 (N=100): 
-examines WTP and WTA in relation to privacy literacy (OPLIS scale) 
+**Experiment 1 (N=100):** examines WTP and WTA more extensively in relation to privacy concern  
+
+Experiment 2 (N=100): examines WTP and WTA in relation to privacy literacy (OPLIS scale) 
 ### Experiment 3 (N=100): 
 examines WTP and WTA in relation to privacy behaviour
 ### Experiment 4 Control (N=100): 
